@@ -36,8 +36,8 @@ Configured for analysis on:
 
 You can find also a few examples demonstrating
 
-* https://github.com/orgs/sonarsource-cfamily-examples/repositories?q=compdb[the use of Compilation Database (compile_commands.json)].
-* https://github.com/orgs/sonarsource-cfamily-examples/repositories?q=topic%3Acoverage[test coverage gathering].
+* https://github.com/orgs/sonarsource-cfamily-examples/repositories?q=compdb[the use of Compilation Database (compile_commands.json)]
+* https://github.com/orgs/sonarsource-cfamily-examples/repositories?q=topic%3Acoverage[test coverage gathering]
 
 
 See link:./examples-structure.adoc[examples-structure.adoc] for a description of the structure of https://github.com/sonarsource-cfamily-examples[this GitHub organization] and the relations between its different repositories.
